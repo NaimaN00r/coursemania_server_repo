@@ -1,3 +1,32 @@
 [
-    
+  {
+    "id": "01",
+    "name": "Web Development",
+    "image_url":"https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Data Science",
+    "image_url":"https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg"
+  },
+  {
+    "id": "03",
+    "name": "Artificial Intelligence",
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KmP4RUQ21FeZeQpHyjbMa9sZsIx3HohfneuDSRLd0Lm9Q5-z14ag26ttCREdnvVyk-4&usqp=CAU"
+  },
+  {
+    "id": "04",
+    "name": "Cybersecurity",
+    "image_url":"https://reciprocity.com/wp-content/uploads/2021/06/resource_advanced-persistent-threat-cybersecurity_featured-img_730x270.jpg"
+  },
+  {
+    "id": "05",
+    "name": "Game Development",
+    "image_url":"https://cdn-images-1.medium.com/max/2600/1*jMDG7pTIaVeP5bQnE1RuXg.png"
+  },
+  {
+    "id": "06",
+    "name": "Machine Learning",
+    "image_url":"https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg"
+  }
     ]
