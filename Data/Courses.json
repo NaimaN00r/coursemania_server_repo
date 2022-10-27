@@ -1,0 +1,161 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "The Beginner's Guide to Website Development",
+    "author": {
+      "name": "Allie Decker"     
+    },
+
+    "image_url":"https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+    "details":{
+      "ttopic":"What is website development?",
+      "tddetails":"web development typically refers to web markup and coding, website development includes all related development tasks, such as client-side scripting, server-side scripting, server and network security configuration, eCommerce development, and content management system (CMS) development.In this section will describe what you should know to learn web development",
+      "types":"Types of web development",
+      "list":{
+          "A":"Learn HTML,CSS",
+          "B":"Learn FrontEnd ",
+          "C":"Learn BackEnd",
+          "D":"Learn PhP"
+      }
+  }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "All about Data Science",
+    "author": {
+      "name": "Allie Decker"     
+    },
+    "image_url":"https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg",
+    "details":{
+      "ttopic":"What is Data Science??",
+      "tddetails":"Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value.",
+      "types":"Data Science + DataRobot",
+      "list":{
+          "A":"Analyze Data with Python",
+          "B":"Master Statics with python",
+          "C":"Analyze Data with SQL",
+          "D":"Build Chatsbots with Python"
+      }
+  }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Master your path in Artificial Intelligence",
+    "author": {
+      "name": "Allie Decker"     
+    },
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KmP4RUQ21FeZeQpHyjbMa9sZsIx3HohfneuDSRLd0Lm9Q5-z14ag26ttCREdnvVyk-4&usqp=CAU",
+    "details":{
+      "ttopic":"Why you should do this course",
+      "tddetails":"AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take",
+      "types":"What will you learn from this course",
+      "list":{
+          "A":"Workflow of Machine Learning projects",
+          "B":"AI terminology",
+          "C":"AI strategy",
+          "D":"Workflow of Data Science projects"
+      }
+  }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Introduction to Cybersecurity",
+    "author": {
+      "name": "Allie Decker"     
+    },
+    "image_url":"https://reciprocity.com/wp-content/uploads/2021/06/resource_advanced-persistent-threat-cybersecurity_featured-img_730x270.jpg",
+    "details":{
+      "ttopic":"Why Learn Cybersecurity?",
+      "tddetails":"Data is valuable. With so much sensitive information online, companies need cybersecurity pros to protect it. This course is a great starting point for anyone interested in cybersecurity, but not sure where to start. Build your foundation by learning the fundamentals of one of the fastest-growing fields today.",
+      "types":"Take-Away Skills",
+      "list":{
+          "A":"Learn the basic concepts",
+          "B":"Get idea common cyber threats and attacks",
+          "C":"gain an understanding of principles and policies",
+          "D":"used authentication/authorization techniques"
+      }
+     
+  }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Welcome to the game development course",
+    "author": {
+      "name": "Allie Decker"     
+    },
+    "image_url":"https://cdn-images-1.medium.com/max/2600/1*jMDG7pTIaVeP5bQnE1RuXg.png",
+    "details":{
+      "ttopic":"Why you should do this course",
+      "tddetails":"Learn how to create safe and secure experiences while staying compliant with Google Play policies, and how to design for engagement.",
+      "types":"What will you learn",
+      "list":{
+          "A":"Optimize your app for sustainable business growth",
+          "B":"Design for all users",
+          "C":"Security by design",
+          "D":"Design high-quality apps for kids"
+      }
+  }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Master your path in Machine learning",
+    "author": {
+      "name": "Allie Decker"     
+    },
+    "image_url":"https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg",
+    "details":{
+      "ttopic":"Why you should do this course",
+      "tddetails":"To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish.Begin with this curriculums to improve these four skills, or choose your own learning path by exploring our resource library below.",
+      "types":"What will you learn from this course",
+      "list":{
+          "A":"Coding skills",
+          "B":"Math and stats",
+          "C":"ML theory",
+          "D":"Build your own projects"
+      }
+  }
+  }
+  
+]
